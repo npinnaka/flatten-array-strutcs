@@ -1,0 +1,8 @@
+root
+ |-- dept: array (nullable = true)
+ |    |-- element: struct (containsNull = true)
+ |    |    |-- department: string (nullable = true)
+ |    |    |-- emp_count: long (nullable = true)
+ |    |    |-- expenses: long (nullable = true)
+ |-- id: long (nullable = true)
+

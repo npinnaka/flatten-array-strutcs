@@ -1,0 +1,2 @@
+{"id":1,"IT_department":"IT","IT_emp_count":250,"IT_expenses":45000,"SALES_department":"SALES","SALES_emp_count":20,"SALES_expenses":32000,"MARKETING_department":"MARKETING","MARKETING_emp_count":35,"MARKETING_expenses":33000}
+{"id":2,"OPERATIONS_department":"OPERATIONS","OPERATIONS_emp_count":300,"OPERATIONS_expenses":24000,"FINANCE_department":"FINANCE","FINANCE_emp_count":5,"FINANCE_expenses":19000,"HR_department":"HR","HR_emp_count":32,"HR_expenses":17000}
